@@ -152,4 +152,4 @@ else:
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-CSTF_TRUSTED_ORIGINS = ["https://rheina-adinda-footballnews.pbp.cs.ui.ac.id"]
+CSRF_TRUSTED_ORIGINS = ["https://rheina-adinda-footballnews.pbp.cs.ui.ac.id"]
